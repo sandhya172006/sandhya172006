@@ -26,5 +26,7 @@
 
 🗄️ MySQL, SQLite
 
-✨ *Passion. Learning. Innovation.*
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sandhyas17/
 
